@@ -1,4 +1,4 @@
-# linear-regression-and-polynomial-model-for-Boston-housing-example
+# Linear-regression-and-polynomial-model-for-Boston-housing-example
 SUSTech EE271 Artificial Intelligence and Machine Learning
 
 Each record in the database (boston_housing_data.csv) describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are defined as follows. 
